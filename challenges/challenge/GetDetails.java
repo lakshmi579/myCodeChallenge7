@@ -1,4 +1,4 @@
-package challenges.challenge2;
+package challenges.challenge;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.ResultSet;

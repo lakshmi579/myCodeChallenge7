@@ -1,4 +1,4 @@
-package challenges.challenge2;
+package challenges.challenge;
 
 
 	
